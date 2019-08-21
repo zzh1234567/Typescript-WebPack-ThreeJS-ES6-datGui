@@ -27,10 +27,9 @@
   - [webpack-glsl-loader](https://github.com/grieve/webpack-glsl-loader)
 
 ## Installation
-
 ```shell
-git clone git@github.com:zzh1234567/typescript-threejs-es6-webpack-starter.git
-cd typescript-threejs-es6-webpack-starter
+git clone git@github.com:zzh1234567/Typescript-WebPack-ThreeJS-ES6-datGui.git
+cd Typescript-WebPack-ThreeJS-ES6-datGui
 yarn
 ```
 
