@@ -1,4 +1,4 @@
-# ypescript/Javascript+WebPack+Three3D+ES6+datGui
+# Typescript/Javascript+WebPack+Three3D+ES6+datGui
 实现了一个starter的工程，展示了Typescript/Javascript+WebPack+Three3D+ES6+datGui的结合。展示了Threejs的一个迷你freamwork，并包含了fbx和texture加载的功能。
 ----
 ## Screenshots
