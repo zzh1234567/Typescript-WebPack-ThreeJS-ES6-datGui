@@ -29,7 +29,7 @@
   "dependencies": {
     "dat.gui": "^0.7.6",
     "orbit-controls-es6": "2.0.0",
-    "three": "^0.107.0",
+    "three": "^0.137.0",
     "three-orbitcontrols-ts": "^0.1.2",
     "three.interaction": "0.2.2",
     "typescript": "^3.5.3"
